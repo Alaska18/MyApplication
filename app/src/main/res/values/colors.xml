@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#029C8C</color>
+    <color name="colorPrimaryDark">#016E5F</color>
+    <color name="colorAccent">#025116</color>
+    <color name="back">#96FCD7</color>
+    <color name="upbar">#0CE8CE</color>
+    <color name="background">#1F81CB</color>
+    <color name="red">#FF5722</color>
+    <color name="wwhiteback">#ffffff</color>
+    <color name="layoutcolor">#79BCF3</color>
+</resources>
